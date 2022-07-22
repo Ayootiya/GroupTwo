@@ -4,7 +4,8 @@ import React, { Component } from 'react'
   render() {
     return (
       <div>
-      <h1>This is wher we put all our componnent</h1>
+<h1>Group Two </h1>
+      <h3>This is wher we put all our componnent</h3>
       </div>
     )
   }
