@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import MyCounter from './MyCounter'
 
 export default class CounterDisplayer extends Component {
   render() {
